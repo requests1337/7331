@@ -1,15 +1,3 @@
-b'#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
-# scripted by samay
-# Designed by vaimpier ritik 
-# email thread shark 
-# sms bomb script 
-# 2021 
-
 
 #--------imports 
 import os
