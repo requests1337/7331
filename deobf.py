@@ -2,16 +2,6 @@
 #--------imports 
 import os
 import sys
-try:
-    import colorama
-    import requests
-
-except ImportError:
-    try:
-        _ = os.system(\'pip install colorama\' if os.name==\'nt\' else \'pip3 install colorama\')
-        _ = os.system(\'pip install requests\' if os.name==\'nt\' else \'pip3 install requests\')
-    except:
-        pass
 import requests
 from time import sleep
 from colorama import Fore
